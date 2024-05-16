@@ -74,13 +74,16 @@
 
 <br>
 
-<div align="left">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstechcode&theme=highcontrast&icons=true)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstechcode&layout=compact&theme=highcontrast&)
 
+![](https://komarev.com/ghpvc/?username=gstechcode&color=yellow)
 
 </div>
+
+
