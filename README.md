@@ -1,7 +1,5 @@
 ![image](https://github.com/gstechcode/gstechcode/assets/96546023/e8559712-fbf3-412c-8cb8-4c5f84e8ddcc)
 
-![image](https://github.com/gstechcode/gstechcode/assets/96546023/bc461338-972c-489c-8647-1454f0cc3cb5)
-
 
 <div align="center">
 
